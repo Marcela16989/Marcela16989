@@ -1,7 +1,7 @@
 <h2 align="center">🌙 Olá, eu sou a Marcela de Lima Silva 💜</h2>
 
 <p align="center">
-  <i>Desenvolvedora, criadora de conteúdo e apaixonada por design e tecnologia!</i>
+  <i>Desenvolvedora e designer apaixonada por tecnologia e inovação!</i>
 </p>
 
 ---
