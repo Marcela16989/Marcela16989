@@ -1,17 +1,18 @@
 <h2 align="center">🌙 Olá, eu sou a Marcela de Lima Silva 💜</h2>
 
 <p align="center">
-  <i>Desenvolvedora, criadora de conteúdo e apaixonada por design!</i>
+  <i>Desenvolvedora, criadora de conteúdo e apaixonada por design e tecnologia!</i>
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-- 🎨 Tenho experiência com **Figma** e adoro criar interfaces criativas e funcionais  
-- 🧩 Curso técnico em **Desenvolvimento de Sistemas**  
-- 🐍 Curso **básico de Python** pelo Bradesco  
-- 💡 Experiência com **versionamento (Git & GitHub)**  
-- ✨ Sempre aprendendo novas ferramentas e linguagens!  
+- 💻 Técnica em **Desenvolvimento de Sistemas**
+- 🎨 Experiência com **Figma** e **UX/UI Design**
+- 🧩 Habilidade com **VSCode**, **Git** e **versionamento**
+- 🐍 Curso **básico de Python** (Bradesco)
+- ✨ Sempre explorando novas linguagens e frameworks
+- 🚀 Apaixonada por criar e aprender todos os dias!
 
 ---
 
@@ -24,30 +25,49 @@
 
 ### 📊 Meus gráficos no GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Marcela16989&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=C39BD3" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela1689&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6" />
+
+  <!-- Estatísticas principais -->
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=marcela16989&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=BB86FC" 
+  />
+
+  <!-- Linguagens mais usadas -->
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela16989&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC" 
+  />
+  
+</p>
+
+<!-- backup alternativo caso algum gráfico falhe -->
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marcela16989&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&currStreakLabel=C084FC" 
+    alt="Marcela streak stats"
+  />
 </p>
 
 ---
 
 ### 🚀 Projetos e Criações
-- 🎮 Projetos em **Python e Java**
-- 🧠 Sistemas escolares e interfaces UX/UI
-- 🎥 Criação de conteúdo para YouTube  
-- 💜 Experimentos e desafios pessoais no GitHub  
+- 🧠 Projetos com **Python e Java**
+- 🎮 Criações no **Figma** (interfaces e protótipos)
+- 🎥 Conteúdos criativos no YouTube
+- 💜 Experimentos com novas ideias e desafios
 
 ---
 
-### 🌸 Fun facts
-- 🐱 Amo gatos (inclusive tem um no topo do perfil 😺)
-- 🎮 Gamer nas horas vagas
-- 🌌 Adoro temas escuros com toques de roxo e neon  
+### 🌸 Curiosidades
+- 🐱 Amo gatos (inclusive o que aparece no topo 😺)
+- 🎮 Gamer e exploradora digital
+- 🌌 Adoro temas escuros com neon roxo e lilás
 
 ---
 
 ### 💬 Onde me encontrar
-📩 **E-mail:** marceladelimasilva16@gmail
-🔗 [Meu portfolio](https://www.notion.so/Ol-eu-sou-a-Marcela-de-Lima-Silva-2938dc6d01bb81b092defe0577c52992)
+📩 **E-mail:** marceladelimasilva16@gmail.com
+🔗 **Portfólio:** [Meu Notion](https://www.notion.so/Ol-eu-sou-a-Marcela-de-Lima-Silva-2938dc6d01bb81b092defe0577c52992)
 
 ---
 
@@ -56,3 +76,4 @@
   <br>
   <i>“Criando com propósito, aprendendo com paixão.” 💫</i>
 </p>
+
