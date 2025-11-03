@@ -25,7 +25,7 @@
 ### 📊 Meus gráficos no GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Marcela16989&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=C39BD3" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela1689&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela1689&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6" />
 </p>
 
 ---
