@@ -72,7 +72,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/31/5c/2d/315c2dc1ead752ff87561421e9f80711.jpg" />
   <br>
   <i>“Criando com propósito, aprendendo com paixão.” 💫</i>
 </p>
