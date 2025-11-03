@@ -24,8 +24,8 @@
 
 ### 📊 Meus gráficos no GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcela16989&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=C39BD3" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Marcela16989&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=C39BD3" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela1689&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6" />
 </p>
 
 ---
@@ -46,8 +46,8 @@
 ---
 
 ### 💬 Onde me encontrar
-📩 **E-mail:** ana.jesuscristo@gmail.com  
-🔗 **Portfólio:** [Meu Notion](https://www.notion.so/Ol-eu-sou-a-Marcela-de-Lima-Silva-2938dc6d01bb81b092defe0577c52992)
+📩 **E-mail:** marceladelimasilva16@gmail
+🔗 [Meu portfolio](https://www.notion.so/Ol-eu-sou-a-Marcela-de-Lima-Silva-2938dc6d01bb81b092defe0577c52992)
 
 ---
 
