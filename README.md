@@ -29,7 +29,7 @@
   <!-- Estatísticas principais -->
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=marcela&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=BB86FC" 
+    src="https://github-readme-stats.vercel.app/api?username=marcela16989&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=BB86FC" 
   />
 
   <!-- Linguagens mais usadas -->
