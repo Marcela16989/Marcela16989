@@ -35,7 +35,7 @@
   <!-- Linguagens mais usadas -->
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela16989&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC" 
   />
   
 </p>
