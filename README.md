@@ -29,13 +29,13 @@
   <!-- Estatísticas principais -->
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=marcela16989&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=BB86FC" 
+    src="https://github-readme-stats.vercel.app/api?username=marcela&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=BB86FC" 
   />
 
   <!-- Linguagens mais usadas -->
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela16989&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC" 
   />
   
 </p>
@@ -43,7 +43,7 @@
 <!-- backup alternativo caso algum gráfico falhe -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=marcela16989&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&currStreakLabel=C084FC" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marcela&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&currStreakLabel=C084FC" 
     alt="Marcela streak stats"
   />
 </p>
