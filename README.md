@@ -53,16 +53,13 @@
 ### 🚀 Projetos e Criações
 - 🧠 Projetos com **Python e Java**
 - 🎮 Criações no **Figma** (interfaces e protótipos)
-- 🎥 Conteúdos criativos no YouTube
 - 💜 Experimentos com novas ideias e desafios
 
 ---
 
 ### 🌸 Curiosidades
-- 🐱 Amo gatos (inclusive o que aparece no topo 😺)
+- 🐱 Amo gatos
 - 🎮 Gamer e exploradora digital
-- 🌌 Adoro temas escuros com neon roxo e lilás
-
 ---
 
 ### 💬 Onde me encontrar
